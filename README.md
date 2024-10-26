@@ -18,8 +18,8 @@ I'm a passionate developer specializing in web development and programming. I en
 - GitHub collaboration
 
 ### 📫 How to reach me:
-- Email: mr.abdukarim1@gmail.com
-- Telegram: t.me/MrAbdukarimDev
+- Email: <a href="mailto:mr.abdukarim1@gmail.com">mr.abdukarim1@gmail.com</a>
+- Telegram:  <a href="https://t.me/MrAbdukarimDev">t.me/MrAbdukarimDev</a>
 
 ### ⚡ Fun Fact:
 - I love teaching programming and helping others learn tech!
