@@ -29,13 +29,9 @@ I'm a **passionate developer** specializing in web development and programming. 
 ## ⚡ Fun Fact
 I love **teaching programming** and helping others learn tech! 🧑‍🏫
 
-
-![Abdukarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-
-![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername?style=social)
+![Abdukarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=tokyo-night)
+![Followers](https://img.shields.io/github/followers/YourUsername?style=social)
+![Stars](https://img.shields.io/github/stars/YourUsername?style=social)
 
