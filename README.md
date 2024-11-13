@@ -31,4 +31,4 @@ I love **teaching programming** and helping others learn tech! 🧑‍🏫
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAbdukarim&show_icons=true&theme=radical&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=MrAbdukarim&theme=radical&hide_border=true) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbdukarim&layout=compact&theme=radical&count_private=true&token=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) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrAbdukarim&theme=radical&no-frame=true&row=1&column=6) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbdukarim&layout=compact&theme=radical&count_private=true&cache_seconds=1800) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrAbdukarim&theme=radical&no-frame=true&row=1&column=6) |
