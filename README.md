@@ -29,4 +29,4 @@ I'm a **passionate developer** specializing in web development and programming. 
 ## ⚡ Fun Fact
 I love **teaching programming** and helping others learn tech! 🧑‍🏫
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbdukarim&layout=compact&theme=radical&count_private=true) 
