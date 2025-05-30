@@ -1,32 +1,20 @@
 # Hi, I'm Abdukarim! 👋
 
-I'm a **passionate developer** specializing in web development and programming. I enjoy learning new technologies and contributing to open-source projects.
+# Hi there 👋 
+I’m a **passionate developer** with a solid foundation in both Frontend and Backend technologies.
+I enjoy turning ideas into efficient code and building user-friendly, scalable applications. Currently, I’m focused on improving my skills in Full Stack Development and exploring new tools that help solve real-world problems.
 
-## 🔭 What I'm Working On
-- 🚀 Developing **modern web applications** using HTML, CSS, and JavaScript
-- 🔍 Learning advanced **C++** and **Python** concepts
-- 🤝 Collaborating on **open-source projects**
+## 🌟 Skills & Technologies:
 
-## 🌱 Currently Learning
-- 🐧 **Linux development environment** (Kali Linux, Ubuntu, and Pop_OS)
-- 🛠 Improving my **Git and GitHub** skills
-- 🖥 Advanced **HTML** and website building techniques
+- Languages: Python, C++, JavaScript
+- Frontend: HTML, CSS, SASS, Bootstrap, TailwindCSS, ReactJS
+- Backend & Databases: MongoDB, MySQL
+- Tools & Platforms: Git, GitHub, GitLab, Linux
+- Other Interests: Clean code, open-source, continuous learning
 
-## 💻 Tech Stack
-- **Languages**: HTML, CSS, JavaScript, C++, Python
-- **Tools**: Git, GitHub, Linux (Kali, Ubuntu, Pop_OS), VS Code
-- **Frameworks**: TailwindCSS, Bootstrap
+Let’s connect and build something great together! 🚀
 
-## 💬 Ask Me About
-- 🌐 **Web development** (HTML, CSS, JavaScript)
-- 🐍 **Python** and 🧩 **C++ programming**
-- 📈 **GitHub collaboration** and version control
-
-## 📫 How to Reach Me
-- 📧 Email: [mr.abdukarim1@gmail.com](mailto:mr.abdukarim1@gmail.com)
-- 💬 Telegram: [t.me/MrAbdukarimDev](https://t.me/MrAbdukarimDev)
-
-## ⚡ Fun Fact
-I love **teaching programming** and helping others learn tech! 🧑‍🏫
+- Email: [mr.abdukarim1@gmail.com](mailto:mr.abdukarim1@gmail.com)
+- Telegram: [t.me/MrAbdukarimDev](https://t.me/MrAbdukarimDev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbdukarim&layout=compact&theme=radical&count_private=true) 
