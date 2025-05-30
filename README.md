@@ -14,5 +14,3 @@ Let’s connect and build something great together! 🚀
 
 - Email: [mr.abdukarim1@gmail.com](mailto:mr.abdukarim1@gmail.com)
 - Telegram: [t.me/MrAbdukarimDev](https://t.me/MrAbdukarimDev)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbdukarim&layout=compact&theme=radical&count_private=true) 
