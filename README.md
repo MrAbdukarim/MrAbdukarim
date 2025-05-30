@@ -1,5 +1,3 @@
-# Hi, I'm Abdukarim! 👋
-
 # Hi there 👋 
 I’m a **passionate developer** with a solid foundation in both Frontend and Backend technologies.
 I enjoy turning ideas into efficient code and building user-friendly, scalable applications. Currently, I’m focused on improving my skills in Full Stack Development and exploring new tools that help solve real-world problems.
