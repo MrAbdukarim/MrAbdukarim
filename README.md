@@ -1,5 +1,3 @@
-I always strive to write **clean, readable, and maintainable code** while continuously improving my skills in **Java Backend Development**.
-
 # Hi there, I'm Abdukarim.
 
 I'm excited to introduce myself as an **aspiring Backend Developer** passionate about building fast and efficient systems.
