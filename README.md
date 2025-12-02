@@ -2,8 +2,6 @@
 
 I'm an **aspiring Backend Developer** passionate about building fast, efficient, and maintainable systems. My primary focus is on **Java Backend Development**, where I strive to write **clean, readable, and continuously improved code**.
 
----
-
 ## Skills 
 
 **Backend & Languages**: Java, JavaScript
