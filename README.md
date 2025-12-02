@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Abdukarim 👋
 
-<!--
-**MrAbdukarim/MrAbdukarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **aspiring Backend Developer** passionate about building fast, efficient, and maintainable systems. My primary focus is on **Java Backend Development**, where I strive to write **clean, readable, and continuously improved code**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 
+
+**Backend & Languages**: Java, JavaScript
+
+**Databases**: SQL (MySQL, PostgreSQL)
+
+**Web & Frontend**: HTML, CSS, TailwindCSS, SASS
+
+**Tools**: Git & GitHub, Vim/Linux
+
+**Methodologies:** Implementing software development principles like `Agile` and `SCRUM`, alongside understanding `Waterfall`.
+
+
+## Let's Connect
+
+Feel free to reach out and connect!
+
+- **Email:** [mr.abdukarim1@gmail.com](mailto:mr.abdukarim1@gmail.com)
+- **Telegram:** [Abdukarim Qarshiyev channel](https://t.me/Abdukarim_Qarshiyev)
