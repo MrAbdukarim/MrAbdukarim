@@ -1,5 +1,4 @@
-Hey, I'm Abdukarim 👋
-
+## Hey, I'm Abdukarim 👋
 I write about what I'm learning and keep my projects here.
 
 Right now I'm focused on **Java backend development** and **Spring Boot**. I build things to solve my own problems.
